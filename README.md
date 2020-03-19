@@ -4,6 +4,7 @@ In this project, we developed a model to understand commuters' dissatisfaction t
 The model is a two stage model.
 
 stage 1: Detecting tweets if they are relevant or not.
+
 stage 2: Detecting the sentiment type (positive, negative, neutral) 
 
 Since negative tweets are critical to service quality issues in this work we primarily focussed on negative tweets.
